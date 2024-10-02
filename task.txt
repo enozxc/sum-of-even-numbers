@@ -1,0 +1,3 @@
+Write a function sum_of_even_numbers that takes a list of integers numbers and returns the sum of even numbers in the list.
+
+The function should contain only one command - return. To solve the problem in one line, use list comprehension.
